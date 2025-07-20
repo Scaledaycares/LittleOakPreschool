@@ -406,6 +406,7 @@ a:hover {
   }
    #calendly-widget-container{
     transform:scale(0.9);
+    right:-15px;
   }
 }
 
