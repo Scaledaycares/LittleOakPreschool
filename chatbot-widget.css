@@ -319,7 +319,7 @@ a:hover {
 #calendly-widget-container {
   position: fixed;
   bottom: 45px;
-  right: 0px;
+  right: -15px;
   width: 425px; /* Increased width */
   height: 450px; /* Adjusted height to make it square */
   z-index: 100;
@@ -405,8 +405,8 @@ a:hover {
     bottom:50px;
   }
    #calendly-widget-container{
-    transform:scale(0.9);
-    right:-15px;
+    transform:scale(0.8);
+    right:-25px;
   }
 }
 
